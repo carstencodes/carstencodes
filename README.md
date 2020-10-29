@@ -11,7 +11,7 @@ I'm personally fond of distributed algorithms, programs and configurations. Ther
 Follow me on
 * [mastodon](https://tootsfrom.ahabitual.dev/@carsten)
 * [pixelfed](https://lifeof.ahabitual.dev/carsten)
-* [friendica](https://joina.ahabitual.dev/profile/carsten)
+* [friendica](https://join.ahabitual.dev/profile/carsten)
 
 Contact me via
 * [matrix](https://matrix.to/#/@carstencodes:matrix.org)
