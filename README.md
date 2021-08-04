@@ -6,7 +6,7 @@ I have a masters degree in applied computer sciences (regarding electronic engin
 
 My personal websites are [carstenigel.net](https://www.carstenigel.net), [dh8cj.de](https://www.dh8cj.de) and [a habitual dev](https://ahabitual.dev). 
 
-I'm personally fond of distributed algorithms, programs and configurations. Therefore, I am mainly using methods like zeroconf/mdns, matrix chats and activity pub systems.
+I'm personally fond of distributed algorithms, programs and configurations. Therefore, I am mainly using methods like zeroconf/mdns, matrix chats and activity pub based systems.
 
 Follow me on
 * [mastodon](https://tootsfrom.ahabitual.dev/@carsten)
@@ -19,8 +19,10 @@ Contact me via
 
 Find out more about me on [XING](https://www.xing.com/profile/Carsten_Igel).
 
+One of my principles is that you never stop learning. My current progress an skill set can be found [here](certifications.md) and on my [personal résumé](https://iam.ahabitual.dev).
+
 Cheers,
 
 Carsten
 
-PS: My other software is hosted on [gitlab](https://gitlab.com/carstencodes) :fox_face: or [on my own server](https://codefrom.ahabitual.dev/). So my list of projects here is not complete :open_mouth:
+PS: My other software is hosted on [gitlab](https://gitlab.com/carstencodes) :fox_face: or [on my own server](https://codedby.ahabitual.dev/). So my list of projects here is not complete :open_mouth:
